@@ -21,7 +21,7 @@ Use !help <command> to find more info about a command.
 2. Help
 3. Ping
 
-## Setup Commands
+#### Setup Commands
 1. SetAnnounceChannel
 2. SetJudgeRole
 3. SetLogChannel
